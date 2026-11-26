@@ -1,0 +1,124 @@
+*Python Coding Practice Assignment* 🐍
+
+Hello Everyone!
+
+Today’s assignment is based on Python fundamentals. Try to solve all the questions using your own logic and understanding.
+
+*Section 1: Python Basics*
+
+1. Write a Python program to print `Hello, World!`.
+2. Write a program to print your name, age, city, and college on separate lines.
+3. Write a program to print the following pattern using print statements:
+   ```
+   *
+   **
+   ***
+   ****
+   ```
+4. Write a program that takes the user's name as input and displays `Welcome, [Name]!`.
+5. Write a program that takes two numbers as input and displays their sum.
+
+*Section 2: Variables*
+
+6. Create variables to store your name, age, height, and college name. Print all their values.
+7. Create two variables `a = 10` and `b = 20`. Swap their values without using a third variable.
+8. Create a variable `salary = 25000`. Increase its value by 5000 and print the updated salary.
+9. Assign the same value to three variables in a single line and print them.
+10. Create a variable `x = 100`. Update it using `+=`, `-=`, `*=`, and `/=` operators. Print the result after each operation.
+
+*Section 3: Data Types*
+
+11. Create variables for integer, float, string, and boolean. Print their data types using `type()`.
+12. Create a list of five student names and print the list and its data type.
+13. Create a tuple containing five numbers. Print the first and last elements.
+14. Create a dictionary containing student name, roll number, and marks. Print each value separately.
+15. Create two variables containing `True` and `False`. Print their values and data types.
+
+*Section 4: Type Casting*
+
+16. Take a number as input from the user and convert it into an integer. Print its type.
+17. Take two numbers as input, convert them into float values, and display their sum.
+18. Create an integer variable `num = 100`. Convert it into a string and concatenate it with `"Python"`.
+19. Take the user's age as input and calculate their age after 5 years.
+20. Convert the string `"45.67"` into a float and then into an integer. Print both results.
+
+*Section 5: Mixed Python Coding Questions*
+
+21. Create a simple calculator that takes two numbers and displays addition, subtraction, multiplication, and division results.
+22. Write a program that takes a student's name, roll number, and marks in three subjects. Calculate and display total and average marks.
+23. Write a program that takes the length and breadth of a rectangle as input and calculates its area and perimeter.
+24. Take temperature in Celsius as input, convert it into Fahrenheit, and display the result.
+25. Take a product price and quantity as input. Calculate the total bill and display the final amount.
+
+*Section 6: Predict the Output*
+
+*Q26.*
+```python
+x = 10
+y = 20
+x = y
+print(x)
+print(y)
+```
+
+*Q27.*
+```python
+a = "10"
+b = 20
+print(a + str(b))
+```
+
+*Q28.*
+```python
+x = 10
+y = 3.5
+z = x + y
+print(z)
+print(type(z))
+```
+
+*Q29.*
+```python
+a = 100
+b = str(a)
+print(type(a))
+print(type(b))
+```
+
+*Q30.*
+```python
+x = 5
+x += 10
+x *= 2
+print(x)
+```
+
+*Instructions:*
+- Solve all 30 questions.
+- Write clean and properly formatted Python code.
+- Practice the programs yourself instead of copying solutions.
+- Test your code with different input values.
+
+Happy Coding! 🚀
+
+Day 2
+
+Write a program to perform addition, subtraction, multiplication and division of two numbers.
+
+Write a program to calculate the square and cube of a number.
+
+Write a program to check whether one number is greater than another.
+
+Write a program to check whether a number is even or odd using the modulus operator.
+
+Write a program to check whether a person is eligible to vote.
+
+Write a program to check whether a student has passed if marks are greater than or equal to 40.
+
+Write a program to calculate the total price of 5 products.
+
+Write a program to calculate the area of a rectangle.
+
+Create variables for name, age and city and print them using an f-string.
+
+Create a student report displaying name, subject marks, total and average using f-strings.
