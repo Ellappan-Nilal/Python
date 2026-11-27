@@ -122,3 +122,55 @@ Write a program to calculate the area of a rectangle.
 Create variables for name, age and city and print them using an f-string.
 
 Create a student report displaying name, subject marks, total and average using f-strings.
+
+##
+*Python Dictionary – Practice Questions* 🐍
+
+Practice the following questions using Python dictionaries.
+
+*Q1. Create a Dictionary*
+Create a dictionary named `student` with name, age, course and city. Print the dictionary.
+
+*Q2. keys()*
+Create a dictionary of 3 students with their details. Print all the keys using `keys()`.
+
+*Q3. values()*
+Create a dictionary of 5 fruits and their prices. Print all values using `values()`.
+
+*Q4. items()*
+Create a dictionary containing employee name, salary and department. Print all key-value pairs using `items()`.
+
+*Q5. get()*
+Create a dictionary containing student name, age and marks. Access the student's name and marks using `get()`.
+
+*Q6. update()*
+Create a dictionary containing name and age. Add city and course using `update()`.
+
+*Q7. pop()*
+Create a dictionary containing 4 mobile details. Remove the price using `pop()`.
+
+*Q8. clear()*
+Create a dictionary containing 3 car details. Remove all elements using `clear()`.
+
+*Q9. del*
+Create a dictionary containing 4 employee details. Delete the department key using `del`.
+
+*Q10. len()*
+Create a dictionary containing 5 subjects and their marks. Find the total number of items using `len()`.
+
+*Q11. Loop with items()*
+Create a dictionary containing 5 students and their marks. Use a `for` loop with `items()` to print each student's name and marks.
+
+*Q12. Check Key*
+Create a dictionary containing name, age and city. Check whether the key `"age"` exists in the dictionary.
+
+*Q13. Update and Delete*
+Create a dictionary containing product name, price and quantity.
+1. Update the price.
+2. Add a brand using `update()`.
+3. Remove quantity using `pop()`.
+4. Print the final dictionary.
+
+*Note:* Try to solve all questions yourself without copying solutions. 😊
+
+
