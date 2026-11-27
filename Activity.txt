@@ -172,5 +172,53 @@ Create a dictionary containing product name, price and quantity.
 4. Print the final dictionary.
 
 *Note:* Try to solve all questions yourself without copying solutions. 😊
+📢 *Python Practice Assignment – Conditional Statements*
 
+Today we covered `if`, `elif`, `else`, Nested If and `match-case` in Python.
+
+Please practice the following questions to improve your coding skills.
+
+*🔹 Part 1: If, Elif & Else*
+1. Check whether a number is Positive, Negative or Zero.
+2. Check whether a number is Even or Odd.
+3. Check Voting Eligibility based on age.
+4. Find the Greatest of Two Numbers.
+5. Create a Student Grade Calculator.
+6. Create a Temperature Checker.
+7. Create a Login System using Username and Password.
+8. Find the Greatest of Three Numbers.
+9. Create an Electricity Bill Calculator.
+10. Create a Simple Calculator using operators (+, -, *, /).
+
+*🔹 Part 2: Nested If*
+11. Username and Password Verification.
+12. ATM Withdrawal System with PIN and Balance Verification.
+13. College Admission Eligibility based on Age and Marks.
+14. Shopping Discount Calculator based on Purchase Amount and Membership.
+
+*🔹 Part 3: Match-Case*
+15. Display the Day Name based on a Number (1–7).
+16. Create a Basic Calculator using Match-Case.
+17. Traffic Signal System (Red, Yellow, Green).
+18. Create a Food Ordering Menu (Pizza, Burger, Sandwich, Pasta).
+19. Display Month Name based on a Number (1–12).
+20. Create a User Role Management System (Admin, Teacher, Student, Guest).
+
+*🔹 Part 4: Challenge Questions*
+1. Check whether a number is divisible by both 3 and 5.
+2. Check whether a year is a Leap Year.
+3. Create a Grading System using Nested If.
+4. Create a Calculator using both If-Else and Match-Case.
+5. Create a Bank Menu using Match-Case (Deposit, Withdraw, Check Balance, Exit).
+
+📌 *Instructions:*
+- Write the Python code for every question.
+- Practice on Google Colab or VS Code.
+- Try solving questions independently.
+- Don't just copy the code; understand the logic.
+- Be prepared to explain your code in the next session.
+
+🎯 Goal: Practice more and improve your problem-solving skills.
+
+Happy Coding!
 
