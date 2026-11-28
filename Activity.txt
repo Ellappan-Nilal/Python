@@ -211,14 +211,19 @@ Please practice the following questions to improve your coding skills.
 4. Create a Calculator using both If-Else and Match-Case.
 5. Create a Bank Menu using Match-Case (Deposit, Withdraw, Check Balance, Exit).
 
-📌 *Instructions:*
-- Write the Python code for every question.
-- Practice on Google Colab or VS Code.
-- Try solving questions independently.
-- Don't just copy the code; understand the logic.
-- Be prepared to explain your code in the next session.
+for looping
+Print numbers from 1 to 20 using a for loop.
 
-🎯 Goal: Practice more and improve your problem-solving skills.
+Print numbers from 20 to 1 using a for loop.
 
-Happy Coding!
+Print all even numbers between 1 and 50.
 
+Print all odd numbers between 1 and 50.
+
+Print the multiplication table of 7.
+
+Calculate the sum of numbers from 1 to 100.
+
+Print each character of a given string.
+
+Count the number of elements in a list using a loop
