@@ -243,4 +243,8 @@ Ask the user to enter a number until they enter 0.
 Print numbers from 1 to 20 but skip 10 using continue.
 
 Stop the loop when the number reaches 15 using break.
+
+Nested :- Print a square pattern of stars (5 rows and 5 columns).
+
+Print a right-angle triangle pattern.
    
