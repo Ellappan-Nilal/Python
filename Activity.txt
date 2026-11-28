@@ -227,3 +227,20 @@ Calculate the sum of numbers from 1 to 100.
 Print each character of a given string.
 
 Count the number of elements in a list using a loop
+
+while loop
+Intermediate :- 
+Print numbers from 1 to 10 using a while loop.
+
+Find the sum of even numbers from 1 to 50 using while.
+
+Reverse a number using a while loop.
+
+Count the digits in a given number.
+
+Ask the user to enter a number until they enter 0.
+
+Print numbers from 1 to 20 but skip 10 using continue.
+
+Stop the loop when the number reaches 15 using break.
+   
